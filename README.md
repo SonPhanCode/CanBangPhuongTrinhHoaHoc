@@ -1,4 +1,5 @@
 # Cân bằng phương trình hóa học
+# Nguồn: Quốc Khánh Minh Pro ( Huy )
 Link Trực Tiếp: https://sonphancode.github.io/CanBangPhuongTrinhHoaHoc/
 
 HiHello Card: https://hihello.me/p/3881efc8-3c01-43a2-9ab3-1637b8925bd5
